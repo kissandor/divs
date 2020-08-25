@@ -1,0 +1,21 @@
+body {
+  background: grey;
+}
+
+.borders {
+  border-radius: 2%;
+  box-shadow: 1px 0px 6px 4px black;
+}
+
+.div1Style {
+  background: #9e9e9e;
+  color: white;
+}
+.div2Style {
+  background: #616161;
+  color: white;
+}
+.div3Style {
+  background: #424242;
+  color: white;
+}
